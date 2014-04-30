@@ -3,7 +3,7 @@ MIS 21 (Summer 2014-2015)
 
 Project 1: HTML, Forms and Ruby Classes
 =============================================
-***
+
 **Background**
 
 Aling Nena is expanding her booming sari-sari store business by putting up a website to allow her customers to view and purchase her different products online.
