@@ -19,9 +19,10 @@ The previous developer was her daughter, who has built some functionality into t
 + In the root path (/), a nice banner will be displayed as well as 10 random items from her store
     + It should also feature a link to a products page (found under /products) which will display all the items for sale in her store
 + When an item is clicked, then the user shall be taken to a form where they may enter an amount of that item that they wish to purchase.
-    + They should also enter what bills they will be using to
+    + They should also enter what bills they will be using to pay for the item
     + After submitting the form:
         + the amount of the item will be deducted from inventory
+        + the change of the person in bills
 
 **Guidelines**
 + Fork (or download) this repository as a starting point for your project
