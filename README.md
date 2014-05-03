@@ -36,7 +36,7 @@ The previous developer was her daughter, who has built some functionality into t
     + This class will be discussed
 
 **Submission**
-+ Code must be push to your github accounts no later than May 11 2014 11:59:59 PM
++ Code must be pushed to your github accounts no later than May 11 2014 11:59:59 PM
 
 **Grading Criteria**
 + TBA
