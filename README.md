@@ -25,6 +25,7 @@ The previous developer was her daughter, who has built some functionality into t
 
 **Guidelines**
 + Fork (or download) this repository as a starting point for your project **DO NOT CLONE THIS REPO**
++ After cloning your own copy of the repo, run "bundle install"
 + You may use the admin section to add test data as well as to verify sales are going through as expected
 + The design of the site is left entirely up to you. Additional points will be given for more creative designs.
 + For feature on money payment entering (4th item, 1st sub-item), modify the included class in money_calculator.rb and use that class to perform all computations.
