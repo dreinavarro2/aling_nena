@@ -13,13 +13,13 @@ get '/new_product' do
 end
 
 post '/create_product' do
-  Item.create!(
-    name: params[:name],
-    price: params[:price],
-    quantity: params[:quantity],
-    sold: 0
-  )
-  redirect to '/admin'
+	@item = Item.new
+	@item.name = params[:name]
+	@item.price = params[:price]
+	@item.quantity = params[:quantity]
+	@item.sold = 0
+	@item.save
+ 	redirect to '/admin'
 end
 
 get '/edit_product/:id' do
